@@ -1,0 +1,8 @@
+ps -aux
+ls
+ps
+ls -a
+ls -l -a
+ps -a
+man
+man man
